@@ -1,8 +1,8 @@
 Hi, I'm BanaCubed
 * * *
 Here are some of my current projects:
-- [Create Incremental](https://banacubed.github.io/Create-Incremental)
-- [Theta Incremental](https://banacubed.github.io/Theta-Incremental)
+- [Create Incremental](https://github.com/BanaCubed/Create-Incremental)
+- [Theta Incremental](https://github.com/BanaCubed/Theta-Incremental)
 * * *
 I mostly do development of incremental games using [TMT](https://github.com/Acamaeda/The-Modding-Tree)
 
