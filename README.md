@@ -6,5 +6,6 @@
 <br>
 <div align="center">
   I have experience in Type/JavaScript & Python.<br>
-  I have very basc experience in Lua and C#.
+  I have very basc experience in Lua, C# & GDScript.<br>
+  I'm also learning Rust for reasons.
 </div>
